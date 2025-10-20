@@ -4,3 +4,5 @@ A general application of my custom made Linear Algebra Library. This project use
 CMakeLists.txt: Just a cmake file directing the compiler to my custom made matrix library
 
 Please note: The CMAKE was written with the intention of being compiled on OSX Mac computers.
+
+![til](./3DGeometryExample.gif)
